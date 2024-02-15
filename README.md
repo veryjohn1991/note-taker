@@ -1,1 +1,1 @@
-# note-taker
+john's note taker
